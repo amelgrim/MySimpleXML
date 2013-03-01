@@ -1,3 +1,5 @@
+# le git ignore
+
 *.settings
 *.class
 *.classpath
